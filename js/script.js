@@ -4,8 +4,7 @@ var messages = [
 "Kindly hold on until I finish a cup of coffee.",    
 "We will be back in 1/0 minutes.",    
 "Why don't you order a sandwich?",    
-"Don't panic, Just count to infinite.",    
-"Please wait, Your Mobile is not a superman!",    
+"Don't panic, Just count to infinite.",        
 "Roses are red, violets are blue. Something went wrong: error 3502",    
 "Press X to continue. Just kidding, we’re not ready."];
 
