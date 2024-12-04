@@ -49,11 +49,11 @@ function UnityProgress (unityInstance, progress) {
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/WebGL Build.loader.js";
+      var loaderUrl = buildUrl + "/Webgl build.loader.js";
       var config = {
-        dataUrl: buildUrl + "/WebGL Build.data",
-        frameworkUrl: buildUrl + "/WebGL Build.framework.js",
-        codeUrl: buildUrl + "/WebGL Build.wasm",
+        dataUrl: buildUrl + "/Webgl build.data",
+        frameworkUrl: buildUrl + "/Webgl build.framework.js",
+        codeUrl: buildUrl + "/Webgl build.wasm",
         companyName: "FER",
         productName: "UIFlow Virtual",
         productVersion: "1.0",
