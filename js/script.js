@@ -56,7 +56,7 @@ function UnityProgress (unityInstance, progress) {
         codeUrl: buildUrl + "/Webgl Build.wasm",
         companyName: "FER",
         productName: "UIFlow Virtual",
-        productVersion: "1.0",
+        productVersion: "1.2",
       };
 
       // By default Unity keeps WebGL canvas render target size matched with
