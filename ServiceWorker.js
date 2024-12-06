@@ -1,8 +1,8 @@
-const cacheName = "FER-UIFlow Virtual-1.0";
+const cacheName = "FER-UIFlow Virtual-1.2";
 const contentToCache = [
     "Build/WebGL Build.loader.js",
     "Build/cc74305f5082de817128096f59f0ecb8.js",
-    "Build/d18b6f0f0fbb3aa472a6887790b4ef7f.data",
+    "Build/5501cdd6015c448b1deb14c74815a6a4.data",
     "Build/33c03911aeb01c809b2f4fb54fc346a3.wasm",
     "TemplateData/style.css"
 
